@@ -1,0 +1,5 @@
+{
+  "name": "Emotion Shape Diary",
+  "description": "A diary app that visualizes your emotions with dynamic shapes and generates matching music.",
+  "requestFramePermissions": []
+}
